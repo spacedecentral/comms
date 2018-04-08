@@ -17,13 +17,13 @@ The next steps will allow you to create, manage and share a local community, glo
 >Space Decentral is a decentralized community of “Spaciens” or space enthusiasts, encouraging cross-pollination of ideas amongst scientists, engineers, artists, futurists and thinkers that are interested in all aspects of utilizing blockchain and decentralized technologies for any kind of space activities, and ultimately to become a spacefaring civilization. We will present challenges that stem from both socio-economical and technological perspectives, reaching out to experts from both industry and academia to inform the community about their latest work. Meetups will be highly interactive and engage the audience through a combination of activities that are both fun and thought-provoking.
 - Add the following tags: Space, NewSpace, Space Tourism, Space Science, Space Exploration, Space Flights, Aerospace Engineering, Blockchain, Ethereum, Decentralized Systems, Astropreneurs
 - Link it to the Official Channels:
+	- https://spacedecentral.net
 	- https://twitter.com/SpaceDecentral
 	- https://www.facebook.com/groups/spacedecentral/
 	- https://riot.im/app/#/group/+spacedecentral:matrix.org
 	- https://www.youtube.com/channel/UCQc7myPFFWnX95G9u65uOWw
 	- https://github.com/spacedecentral
-	- https://blog.space.coop
-	- https://www.linkedin.com/company/space-cooperative-inc./
+
 
 **Step 3 - Use the official branding**
 - Use the following logo, banner and background images for branding: www.spacedecentral.com/presskit
