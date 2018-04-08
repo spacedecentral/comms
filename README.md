@@ -3,4 +3,7 @@
 
 Media, outreach, branding, and event planning
 
-[Guide for Meetups](https://github.com/JorgeVallet/hollyworlds/blob/master/MEETUP-GUIDE.md)
+
+## Start a Meetup in Your City
+One way to help is to be a local meetup organizer.
+[Review the guide for creating a Space Decentral Meetup](https://github.com/spacedecentral/hollyworlds/blob/master/meetups/MEETUP-GUIDE.md)
