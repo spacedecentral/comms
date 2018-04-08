@@ -1,12 +1,12 @@
 ## Starting an Space Decentral Meetup
 
-In this document we describe the best way to start your local community of Space Decentral using Meetup.
+In this document we describe the best way to start your local community of Space Decentral using Meetup.com.
 
-The next steps will allow you create, manage and share your local community, globally. The team from Space Decentral will provide you additional resources.
+The next steps will allow you to create, manage and share a local community, globally. The team from Space Decentral will provide you with additional resources.
 
 **Step 1 - Search for a Meetup in your city**
 
-- Search on Meetup if there is already a Space Decentral Meetup created.
+- Search on Meetup if there is already a Space Decentral Meetup created in your city.
 - If there is already one, join it, and ask to be a co-organizer.
 - Also, look for Space and Decentralization Meetups and join them.
 
@@ -34,11 +34,11 @@ This is how your Meetup page should looks like:
 
 **Step 4 - Inform the Community about your new Meetup**
 
-- Post on the Forum the creation of the Meetup group, like this: "Paris Meetup"
-- On the Forum, use the "Meetup" tag, and provide the link of the Meetup page.
+- Post on the [Forum](https://spacedecentral.net/forum] the creation of the Meetup group, like this: "Paris Meetup"
+- On the [Forum](https://spacedecentral.net/forum], use the "Meetup" tag, and provide the link of the Meetup page.
 
 **Step 5 - Join #SD-General on Riot, and ask for an invitation to #SD-Meetups**
-- A special room is dedicated for Meetup organizers. Ask one of the Administrators to join the Room. You must have created a Meetup page for your page and clearly be identifiable.
+- A special room is dedicated for Meetup organizers. Ask one of the Administrators to join the Room. You must have created a Meetup page for Space Decentral and be clearly be identifiable.
 - Special Meetings are held for Meetup organizers.
 
 **Step 6 - Keep your community active**
