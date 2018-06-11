@@ -26,7 +26,7 @@ The next steps will allow you to create, manage and share a local community, glo
 
 
 **Step 3 - Use the official branding**
-- Use the following logo, banner and background images for branding: www.spacedecentral.com/presskit
+- Use the following logo, banner and background images for branding: www.spacedecentral.com/presskit (to be completed)
 
 This is how your Meetup page should looks like:
 
@@ -34,8 +34,8 @@ This is how your Meetup page should looks like:
 
 **Step 4 - Inform the Community about your new Meetup**
 
-- Post on the [Forum](https://spacedecentral.net/forum] the creation of the Meetup group, like this: "Paris Meetup"
-- On the [Forum](https://spacedecentral.net/forum], use the "Meetup" tag, and provide the link of the Meetup page.
+- Post on the [Forum](https://spacedecentral.net/forum) the creation of the Meetup group, like this: "Paris Meetup"
+- On the [Forum](https://spacedecentral.net/forum), use the "Meetup" tag, and provide the link of the Meetup page.
 
 **Step 5 - Join #SD-General on Riot, and ask for an invitation to #SD-Meetups**
 - A special room is dedicated for Meetup organizers. Ask one of the Administrators to join the Room. You must have created a Meetup page for Space Decentral and be clearly be identifiable.
