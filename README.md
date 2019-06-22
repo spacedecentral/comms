@@ -1,5 +1,5 @@
-# Space Decentral - Hollyworlds
-[💬 Chat on Riot](https://riot.im/app/#/room/#spacedecentral-hollyworlds:matrix.org)
+# Space Decentral - Communications
+[💬 Chat on Riot](https://riot.im/app/#/room/#spacedecentral-comms:matrix.org)
 
 Media, outreach, branding, and event planning
 
